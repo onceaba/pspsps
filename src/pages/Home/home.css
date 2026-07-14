@@ -1,0 +1,44 @@
+.home{
+
+height:100vh;
+
+display:flex;
+
+flex-direction:column;
+
+justify-content:center;
+
+align-items:center;
+
+background:
+radial-gradient(circle at top,
+#2a2145 0%,
+var(--bg) 65%);
+
+overflow:hidden;
+
+position:relative;
+
+}
+
+.home__buttons{
+
+display:flex;
+
+gap:18px;
+
+margin-top:45px;
+
+}
+
+.walking-cat{
+
+position:absolute;
+
+bottom:25px;
+
+font-size:40px;
+
+animation:float 2s infinite ease-in-out;
+
+}

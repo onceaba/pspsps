@@ -1,0 +1,13 @@
+.card{
+
+background:#1d1d26;
+
+padding:24px;
+
+border-radius:22px;
+
+border:1px solid #2d2d38;
+
+backdrop-filter:blur(20px);
+
+}
